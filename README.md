@@ -20,6 +20,8 @@ To analyze Superstore sales and profitability data and present key business insi
 - Designed dynamic KPI cards for Total Sales, Total Profit, Total Orders, and Profit Margin
 - Created business-focused charts and added slicers to enable interactive filtering across the dashboard.
 
-## Dashboard "C:\Users\ayush\OneDrive\Documents\Superstore Sales & Profit Dashboard screenshot.png"
+## Dashboard
+<img width="618" height="293" alt="Superstore Sales   Profit Dashboard screenshot" src="https://github.com/user-attachments/assets/21602ac0-6e11-455f-9eb7-9f1afc1694f4" />
+
   
 
