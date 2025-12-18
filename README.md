@@ -16,8 +16,8 @@ To analyze Superstore sales and profitability data and present key business insi
 
 ## Process
 - Reviewed the Superstore dataset, handled missing values and created calculated fields such as Profit Margin (%).
-- Built Pivot Tables to aggregate sales and profit by time, category, sub-category, segment, and region.
-- Designed dynamic KPI cards for Total Sales, Total Profit, Total Orders, and Profit Margin
+- Built Pivot Tables to aggregate sales and profit by time, category, sub-category, segment and region.
+- Designed dynamic KPI cards for Total Sales, Total Profit, Total Orders and Profit Margin
 - Created business-focused charts and added slicers to enable interactive filtering across the dashboard.
 
 ## Dashboard
