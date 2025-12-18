@@ -23,5 +23,14 @@ To analyze Superstore sales and profitability data and present key business insi
 ## Dashboard
 <img width="618" height="293" alt="Superstore Sales   Profit Dashboard screenshot" src="https://github.com/user-attachments/assets/21602ac0-6e11-455f-9eb7-9f1afc1694f4" />
 
+## Project Insights
+- Sales vs Profit Trend Gap
+- Category & Sub-Category Analysis
+- Customer Segment Behavior
+- Regional Performance Variation
+
+## Final Conclusion
+This Excel dashboard effectively transforms raw Superstore data into actionable business insights by highlighting sales trends, profitability and loss-making areas. It enables to identify high-performing categories, underperforming segments and  data-driven decisions to improve overall business profitability.
+
   
 
