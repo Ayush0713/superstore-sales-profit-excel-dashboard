@@ -12,3 +12,5 @@ To analyze Superstore sales and profitability data and present key business insi
 - Track key KPIs such as Total Sales, Total Profit, Orders, and Profit Margin
 - Enable interactive analysis using slicers and filters
 
+- Dashboard Interaction <a href="https://github.com/Ayush0713/superstore-sales-profit-excel-dashboard/blob/main/Superstore%20Sales%20%26%20Profit%20Dashboard%20screenshot.png">View Dashboard</a>
+
