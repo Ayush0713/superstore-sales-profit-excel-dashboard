@@ -19,5 +19,7 @@ To analyze Superstore sales and profitability data and present key business insi
 - Built Pivot Tables to aggregate sales and profit by time, category, sub-category, segment, and region.
 - Designed dynamic KPI cards for Total Sales, Total Profit, Total Orders, and Profit Margin
 - Created business-focused charts and added slicers to enable interactive filtering across the dashboard.
+
+## Dashboard "C:\Users\ayush\OneDrive\Documents\Superstore Sales & Profit Dashboard screenshot.png"
   
 
